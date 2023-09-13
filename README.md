@@ -6,4 +6,4 @@ A lot of steps were still manual but it was automated to a decent extent.
 Using Pytesseract and cv2, the program would just read some text, and then move the cursor to certain locations to do random clicking for 5 minutes.
 Then if I won the bihourly lottery, the program collects the gift cards.
 
-Then the headsets and routers were extra bonuses I did not expect lol. I still use the router. It's pretty good. Headsets were average.
+The headsets and routers were extra bonuses I did not expect lol. I still use the router. It's pretty good. Headsets were average.
